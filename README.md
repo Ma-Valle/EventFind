@@ -1,2 +1,1 @@
-# EventFind
-Site de pesquisa para eventos
+https://eventfind.com.br
